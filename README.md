@@ -1,7 +1,7 @@
 <h1> Eye Exercise </h1>
 
 ## Description
-This code creates a pair of eyes. In addition, the code makes the pupils of the eye follow the user's cursor all around the page.
+This code creates a pair of eyes with synched eyeballs. In addition, the code makes the pupils of the eye follow the user's mouse movements all around the page.
 
 ## Roadmap Update
 <li> Add the missing facial features like nose, mouth, etc...  </li>
